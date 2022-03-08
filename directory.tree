@@ -1,0 +1,9 @@
+.
+├── responsive
+│   ├── desktop_body.dart
+│   ├── dimensions.dart
+│   ├── mobile_body.dart
+│   └── responsive_helper.dart
+├── views
+│   └── home_page.dart
+└── main.dart
