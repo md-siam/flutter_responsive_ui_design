@@ -3,14 +3,14 @@ import 'package:flutter_responsive_ui_design/responsive/desktop_body.dart';
 import 'package:flutter_responsive_ui_design/responsive/mobile_body.dart';
 import 'package:flutter_responsive_ui_design/responsive/responsive_helper.dart';
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key}) : super(key: key);
+class HomePage extends StatefulWidget {
+  const HomePage({Key? key}) : super(key: key);
 
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  State<HomePage> createState() => _HomePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(

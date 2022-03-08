@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Responsive Design',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.deepPurple),
-      home: const MyHomePage(),
+      home: const HomePage(),
     );
   }
 }
