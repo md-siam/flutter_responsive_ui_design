@@ -17,13 +17,13 @@ Video URL: https://www.youtube.com/watch?v=MrPJBAOzKTQ&list=LL&index=3&t=2s
 ## Directory
 
 ```
-lib
-├── responsive
+lib/
+├── responsive/
 │   ├── desktop_body.dart
 │   ├── dimensions.dart
 │   ├── mobile_body.dart
 │   └── responsive_helper.dart
-├── views
+├── views/
 │   └── home_page.dart
 └── main.dart
 ```
